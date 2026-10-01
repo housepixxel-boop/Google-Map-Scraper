@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 
-API_BASE = "https://googlemapscraper-production.up.railway.app"
+API_BASE = "https://google-map-scraper-production-3c0c.up.railway.app"
 
 st.set_page_config(
     page_title="Place Finder",
